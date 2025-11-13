@@ -1,0 +1,5 @@
+{
+  "name": "Chaaye Junction",
+  "description": "An online ordering platform for a tea and coffee shop, allowing users to browse the menu, add items to a cart, and place orders via WhatsApp. It also supports generating a PDF bill.",
+  "requestFramePermissions": []
+}
